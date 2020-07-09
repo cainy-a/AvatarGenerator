@@ -1,0 +1,16 @@
+/home/cain/source/AvatarGen/AvatarGenCli/bin/Debug/netcoreapp3.1/AvatarGenCli
+/home/cain/source/AvatarGen/AvatarGenCli/bin/Debug/netcoreapp3.1/AvatarGenCli.deps.json
+/home/cain/source/AvatarGen/AvatarGenCli/bin/Debug/netcoreapp3.1/AvatarGenCli.runtimeconfig.json
+/home/cain/source/AvatarGen/AvatarGenCli/bin/Debug/netcoreapp3.1/AvatarGenCli.runtimeconfig.dev.json
+/home/cain/source/AvatarGen/AvatarGenCli/bin/Debug/netcoreapp3.1/AvatarGenCli.dll
+/home/cain/source/AvatarGen/AvatarGenCli/bin/Debug/netcoreapp3.1/AvatarGenCli.pdb
+/home/cain/source/AvatarGen/AvatarGenCli/obj/Debug/netcoreapp3.1/AvatarGenCli.csprojAssemblyReference.cache
+/home/cain/source/AvatarGen/AvatarGenCli/obj/Debug/netcoreapp3.1/AvatarGenCli.AssemblyInfoInputs.cache
+/home/cain/source/AvatarGen/AvatarGenCli/obj/Debug/netcoreapp3.1/AvatarGenCli.AssemblyInfo.cs
+/home/cain/source/AvatarGen/AvatarGenCli/obj/Debug/netcoreapp3.1/AvatarGenCli.csproj.CoreCompileInputs.cache
+/home/cain/source/AvatarGen/AvatarGenCli/obj/Debug/netcoreapp3.1/AvatarGenCli.dll
+/home/cain/source/AvatarGen/AvatarGenCli/obj/Debug/netcoreapp3.1/AvatarGenCli.pdb
+/home/cain/source/AvatarGen/AvatarGenCli/obj/Debug/netcoreapp3.1/AvatarGenCli.genruntimeconfig.cache
+/home/cain/source/AvatarGen/AvatarGenCli/bin/Debug/netcoreapp3.1/AvatarGenLib.dll
+/home/cain/source/AvatarGen/AvatarGenCli/bin/Debug/netcoreapp3.1/AvatarGenLib.pdb
+/home/cain/source/AvatarGen/AvatarGenCli/obj/Debug/netcoreapp3.1/AvatarGenCli.csproj.CopyComplete
