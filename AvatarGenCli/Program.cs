@@ -168,7 +168,7 @@ Made by Cain Atkinson");
 				}
 			}
 			
-			GenerateSvg(path, width, height); // TODO: pass in colours.
+			GenerateSvgArgb(path, width, height, fgRed, fgGreen, fgBlue, bgRed, bgGreen, bgBlue);
 		}
 	}
 }
