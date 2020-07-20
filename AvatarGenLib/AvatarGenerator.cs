@@ -12,9 +12,9 @@ namespace AvatarGenLib
 		                               Color? backgroundColour = null)
 		{
 			// Set Stuff, need to use Nullable<T> (shorthand is T?) because default parameters must be compile-time consistent.
-			if (!foregroundColour.HasValue) foregroundColour = Color.FromArgb(194, 241, 255);
-			if (!backgroundColour.HasValue) backgroundColour = Color.FromArgb(109, 180, 213);
-			if (!height.HasValue) height                     = width;
+			foregroundColour ??= Color.FromArgb(194, 241, 255);
+			backgroundColour ??= Color.FromArgb(109, 180, 213);
+			height ??= width;
 
 			throw new NotImplementedException("I don't know how to do SVGs :(");
 		}
