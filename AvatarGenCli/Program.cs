@@ -76,7 +76,7 @@ Made by Cain Atkinson");
 		{
 			widthEntry:
 			Console.Write("How many units wide should the avatar be? Leave blank for default of 4 ");
-			var width    = 2;
+			var width    = 4;
 			var response = Console.ReadLine().Trim();
 			if (response != string.Empty)
 				if (int.TryParse(response, out var _int))

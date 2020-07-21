@@ -1,9 +1,0 @@
-/home/cain/source/AvatarGen/AvatarGenLib/bin/Debug/netstandard2.0/AvatarGenLib.deps.json
-/home/cain/source/AvatarGen/AvatarGenLib/bin/Debug/netstandard2.0/AvatarGenLib.dll
-/home/cain/source/AvatarGen/AvatarGenLib/bin/Debug/netstandard2.0/AvatarGenLib.pdb
-/home/cain/source/AvatarGen/AvatarGenLib/obj/Debug/netstandard2.0/AvatarGenLib.csprojAssemblyReference.cache
-/home/cain/source/AvatarGen/AvatarGenLib/obj/Debug/netstandard2.0/AvatarGenLib.AssemblyInfoInputs.cache
-/home/cain/source/AvatarGen/AvatarGenLib/obj/Debug/netstandard2.0/AvatarGenLib.AssemblyInfo.cs
-/home/cain/source/AvatarGen/AvatarGenLib/obj/Debug/netstandard2.0/AvatarGenLib.csproj.CoreCompileInputs.cache
-/home/cain/source/AvatarGen/AvatarGenLib/obj/Debug/netstandard2.0/AvatarGenLib.dll
-/home/cain/source/AvatarGen/AvatarGenLib/obj/Debug/netstandard2.0/AvatarGenLib.pdb
